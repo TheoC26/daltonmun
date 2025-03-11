@@ -23,7 +23,7 @@ export default function Home() {
         transition={{ delay: 0.2, duration: 0.6 }}
       >
         <h2 className="text-5xl font-semibold text-blue-800 mb-4">
-          Conference Overview
+          Conference Overview - May 4th, 2025
         </h2>
         <p className="text-xl text-blue-700 mb-4">
           The Dalton Model United Nations Conference XII (DMUN XII) is an
