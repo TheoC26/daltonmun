@@ -32,7 +32,7 @@ const committees = [
     name: "UNEP",
     chairs: "Lylah Patel",
     topic: "Natural Disaster Displacement",
-    backgroundGuide: "/UNEP_BG.pdf",
+    backgroundGuide: "/UNEP-DMUN-XII.pdf",
   },
   {
     name: "WHO",
@@ -44,7 +44,7 @@ const committees = [
     name: "CSW",
     chairs: "Natalie Sloan + Priester Davis",
     topic: "Health and Reproductive Rights of Women",
-    backgroundGuide: "/CSW_BG.pdf",
+    backgroundGuide: "/CSW-DMUN-XII.pdf",
   },
   {
     name: "JCC Trojan War: Greeks",
@@ -62,7 +62,7 @@ const committees = [
     name: "Suits",
     chairs: "Ryan Feder",
     topic: "Corporate Crisis",
-    backgroundGuide: "/Suits_BG.pdf",
+    backgroundGuide: "/SUITS-DMUN-XII.pdf",
   },
 ];
 
