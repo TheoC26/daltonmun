@@ -8,63 +8,63 @@ const committees = [
     name: "DISEC",
     chairs: "Jonathan Henkin",
     topic: "Biological Warfare",
-    backgroundGuide: "/path/to/DISEC_BG.pdf"
+    backgroundGuide: "/DISEC-DMUN-XII.pdf",
   },
   {
     name: "ECOFIN",
     chairs: "Austin Gordon + Augie Emmanuel",
     topic: "Responding to Global Inflation and Financial Crises",
-    backgroundGuide: "/path/to/ECOFIN_BG.pdf"
+    backgroundGuide: "/ECOFIN-DMUN-XII.pdf",
   },
   {
     name: "SOCHUM",
     chairs: "Drew Wallack",
     topic: "Human Rights Violations of Prisoners",
-    backgroundGuide: "/path/to/SOCHUM_BG.pdf"
+    backgroundGuide: "/SOCHUM-DMUNXII-BG.pdf",
   },
   {
     name: "Futuristic",
     chairs: "Rohan Shah",
     topic: "New Planets",
-    backgroundGuide: "/path/to/Futuristic_BG.pdf"
+    backgroundGuide: "/SPACE-DMUNXII-BG.pdf",
   },
   {
     name: "UNEP",
     chairs: "Lylah Patel",
     topic: "Natural Disaster Displacement",
-    backgroundGuide: "/path/to/UNEP_BG.pdf"
+    backgroundGuide: "/UNEP_BG.pdf",
   },
   {
     name: "WHO",
     chairs: "Mehela Noel",
     topic: "Ebola Outbreak",
-    backgroundGuide: "/path/to/WHO_BG.pdf"
+    backgroundGuide: "/WHO_BG.pdf",
   },
   {
     name: "CSW",
     chairs: "Natalie Sloan + Priester Davis",
     topic: "Health and Reproductive Rights of Women",
-    backgroundGuide: "/path/to/CSW_BG.pdf"
+    backgroundGuide: "/CSW_BG.pdf",
   },
   {
     name: "JCC Trojan War: Greeks",
     chairs: "Ani Sharma",
     topic: "Trojan War",
-    backgroundGuide: "/path/to/JCC_Greeks_BG.pdf"
+    backgroundGuide: "/Trojan-War-DMUNXII-BG.pdf",
   },
   {
     name: "JCC Trojan War: Trojans",
     chairs: "Sophie Myers + Kavi Mittal",
     topic: "Trojan War",
-    backgroundGuide: "/path/to/JCC_Trojans_BG.pdf"
+    backgroundGuide: "/Trojan-War-DMUNXII-BG.pdf",
   },
   {
     name: "Suits",
     chairs: "Ryan Feder",
     topic: "Corporate Crisis",
-    backgroundGuide: "/path/to/Suits_BG.pdf"
-  }
-]
+    backgroundGuide: "/Suits_BG.pdf",
+  },
+];
 
 const fadeIn = {
   initial: { opacity: 0, y: 20 },
