@@ -38,7 +38,7 @@ const committees = [
     name: "WHO",
     chairs: "Mehela Noel",
     topic: "Ebola Outbreak",
-    backgroundGuide: "/WHO_BG.pdf",
+    backgroundGuide: "/WHO-DMUN-2025.pdf",
   },
   {
     name: "CSW",
@@ -104,7 +104,7 @@ export default function Committees() {
             <h2 className="text-2xl font-semibold text-blue-800 mb-2">{committee.name}</h2>
             <p className="text-blue-700 mb-2"><strong>Chairs:</strong> {committee.chairs}</p>
             <p className="text-blue-700 mb-4"><strong>Topic:</strong> {committee.topic}</p>
-            <Link href={committee.backgroundGuide} className="text-blue-500 hover:text-blue-700 transition-colors">
+            <Link href={committee.backgroundGuide} target='_blank' className="text-blue-500 hover:text-blue-700 transition-colors">
               Download Background Guide
             </Link>
           </motion.div>
